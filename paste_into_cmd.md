@@ -4,4 +4,5 @@
 * Enable Quick Edit Mode 
 * Copy text that is to be pasted 
 * Right-Click where you want to paste it. 
+
 ...that's it! 
