@@ -6,3 +6,6 @@
 * Right-Click where you want to paste it. 
 
 ...that's it! 
+
+## Windows cmd equivalent of linux man command 
+* it's <program_name>/?. (for example ipconfig /? or arp /?) 
